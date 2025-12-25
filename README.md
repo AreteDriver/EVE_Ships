@@ -387,6 +387,17 @@ For commercial use, please create original designs or obtain licensing from CCP 
 
 ---
 
+## Support the Project
+
+If you enjoy this project, consider supporting development:
+
+- **In-Game**: Send ISK donations to **AreteDriver** in EVE Online
+- **Buy Me a Coffee**: [buymeacoffee.com/aretedriver](https://buymeacoffee.com/aretedriver)
+
+Your support helps keep these projects maintained and improving. o7
+
+---
+
 ## Acknowledgments
 
 - **CCP Games** - For creating the EVE Online universe and its iconic ships
