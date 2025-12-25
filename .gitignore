@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.idea/
+.vscode/
+*.sublime-*
+
+# Temporary files
+*.tmp
+*.bak
+*.orig
+
+# Node (if using build tools)
+node_modules/
+package-lock.json
+
+# Python (if using scripts)
+__pycache__/
+*.pyc
+.venv/
