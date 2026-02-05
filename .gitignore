@@ -23,3 +23,8 @@ package-lock.json
 __pycache__/
 *.pyc
 .venv/
+
+# Environment files
+.env
+.env.*
+.env.local
